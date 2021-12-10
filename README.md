@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [My solution](https://msq-dev.github.io/fm-02/)
 
 ## My process
 
@@ -48,4 +48,5 @@ Users should be able to:
 ## Acknowledgments
 
 Thanks [@raubaca](https://codepen.io/raubaca) from codepen for the pure CSS accordion <3
+
 [https://codepen.io/raubaca/pen/PZzpVe](https://codepen.io/raubaca/pen/PZzpVe)
